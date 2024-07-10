@@ -1,0 +1,14 @@
+C:\Users\misha\source\repos\ISet\ISet\bin\Debug\net8.0\MySet.exe
+C:\Users\misha\source\repos\ISet\ISet\bin\Debug\net8.0\MySet.deps.json
+C:\Users\misha\source\repos\ISet\ISet\bin\Debug\net8.0\MySet.runtimeconfig.json
+C:\Users\misha\source\repos\ISet\ISet\bin\Debug\net8.0\MySet.dll
+C:\Users\misha\source\repos\ISet\ISet\bin\Debug\net8.0\MySet.pdb
+C:\Users\misha\source\repos\ISet\ISet\obj\Debug\net8.0\MySet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misha\source\repos\ISet\ISet\obj\Debug\net8.0\MySet.AssemblyInfoInputs.cache
+C:\Users\misha\source\repos\ISet\ISet\obj\Debug\net8.0\MySet.AssemblyInfo.cs
+C:\Users\misha\source\repos\ISet\ISet\obj\Debug\net8.0\MySet.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\ISet\ISet\obj\Debug\net8.0\MySet.dll
+C:\Users\misha\source\repos\ISet\ISet\obj\Debug\net8.0\refint\MySet.dll
+C:\Users\misha\source\repos\ISet\ISet\obj\Debug\net8.0\MySet.pdb
+C:\Users\misha\source\repos\ISet\ISet\obj\Debug\net8.0\MySet.genruntimeconfig.cache
+C:\Users\misha\source\repos\ISet\ISet\obj\Debug\net8.0\ref\MySet.dll
